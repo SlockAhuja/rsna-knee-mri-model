@@ -1,0 +1,14 @@
+{
+  "ACL": 0.05,
+  "MCL": 0.5,
+  "Medial Meniscus": 0.5,
+  "Lateral Meniscus": 0.5,
+  "Medial OA": 0.5,
+  "Lateral OA": 0.5,
+  "PF OA": 0.5,
+  "Effusion": 0.5,
+  "Synovitis": 0.5,
+  "Baker's": 0.5,
+  "Contusion": 0.5,
+  "Fracture": 0.5
+}
